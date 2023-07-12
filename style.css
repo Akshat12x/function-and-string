@@ -1,0 +1,47 @@
+body{
+    background-color: rgba(26, 65, 70, 0.552);
+    text-align: center;
+}
+
+
+.case1{
+    border: 15px solid teal;
+    
+
+}
+.case2{
+    border: 15px solid lightseagreen;
+
+}
+.case3{
+    border: 15px solid rgb(71, 175, 175);
+
+}
+.case4{
+    border: 15px solid rgba(6, 51, 51, 0.776);
+
+}
+.case5{
+    border: 15px solid rgba(111, 176, 176, 0.322);
+
+}
+
+.output {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+
+
+
+input{
+    padding: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    margin-top: 10px;
+  }
+  
+  #result {
+    font-weight: bold;
+  }
